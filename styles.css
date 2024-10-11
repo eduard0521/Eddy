@@ -48,16 +48,7 @@ nav a {
         text-decoration: underline; 
     }
 
-main {
-    flex: 1; 
-}
 
-    main p {
-        padding: 20px;
-        display: flex;
-        align-items: center;
-        color: white;
-    }
 
 footer {
     background-color: #203b74;
